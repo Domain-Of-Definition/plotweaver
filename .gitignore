@@ -35,3 +35,5 @@ temp/
 Thumbs.db
 .idea/
 .vscode/
+
+.vite/
