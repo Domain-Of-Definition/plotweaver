@@ -1,1 +1,0 @@
-"""PlotWeaver backend package."""
