@@ -169,4 +169,4 @@ npm run build
 
 ## Demo 视频
 
-待补充：提交前将可访问的 Demo 视频链接放在此处。
+https://www.bilibili.com/video/BV16DE46ZEX5/
