@@ -170,3 +170,8 @@ npm run build
 ## Demo 视频
 
 https://www.bilibili.com/video/BV16DE46ZEX5/
+
+## 截图展示
+
+<img width="1887" height="901" alt="47C1D5D70EB69A138597884DB159672A" src="https://github.com/user-attachments/assets/c6cee6d3-f9a8-4bc7-8271-7402adb76c68" />
+
